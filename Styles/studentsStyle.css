@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    height: 100%;
+    margin-bottom: 200px;
+    background-color: white;
+}
+
+h2 {
+    font-family: Calibri;
+    font-size: 25pt;
+    font-style: normal;
+    font-weight: bold;
+    color: #404040;
+    text-align: center;
+    text-decoration: unset;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.delete-button-img, .change-student-button-img, .search-button-img, .email-button-img {
+    width: 20px;
+}
+
+.delete-button, .change-student-button, .search-button, .email-button {
+    border: none;
+    justify-content: center;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+th {
+    font-family: Calibri;
+    font-size: 13pt;
+    padding-bottom: 20px;
+    color: #404040;
+    background-color: #ffff80;
+}
+
+.student-table {
+    text-align: center;
+}
+
+table {
+    font-family: Calibri;
+    width: 80%;
+    border-collapse: collapse;
+    align-items: center;
+    margin: auto;
+}
+
+.student-forms-student{
+    margin-left: 150px;
+}
+
+.add-tag {
+    margin-left: 150px;
+}
+
+.form-field{
+    margin-top: 40px;
+    border: none;
+    min-width: 220px;
+    width: 15vw;
+    max-width: 400px;
+    height: 30px;
+    border-bottom: 1px solid #3a3a3a;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    background-color: #e8f6fc;
+    text-decoration-color: black;
+    outline-width: 1px;
+    padding: 0px 0px 5px 5px;
+}
+
+#tag-submit{
+    width: 150px;
+    height: 40px;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    background-color: #179BD5;
+    cursor: pointer;
+    outline: none;
+    align-items: center;
+    margin-top: 30px;
+}
