@@ -1,6 +1,6 @@
 # Klassijuhataja päevik
 
-https://github.com/RicoNurmsalu/Suvepraktika/blob/main/Pics/Login.PNG
+![alt text](https://github.com/RicoNurmsalu/Suvepraktika/blob/main/Pics/Login.PNG)
 
 
 
