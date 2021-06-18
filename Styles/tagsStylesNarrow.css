@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    margin-bottom: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-family: Calibri;
+    font-size: 25pt;
+    font-style: normal;
+    font-weight: bold;
+    color: #404040;
+    text-align: center;
+    text-decoration: unset;
+}
+
+th {
+    padding-bottom: 20px;
+    font-family: Calibri;
+    font-size: 13pt;
+    color: #404040;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    background-color: #e8f6fc;
+    border-collapse: collapse;
+}
+
+.tags-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tags-view{
+    margin-left: 3vw;
+    align-items: center;
+    border-left: none;
+}
+
+.tags-insert {
+    align-items: center;
+}
+
+.tags-form {
+    width: 100%;
+}
+
+.tags-form-table {
+    margin: auto;
+    width: 80%;
+}
+
+.form-item {
+    margin-top: 80px;
+    max-width: 600px;
+    min-width: 295px;
+    flex: 1 1 400px;
+    text-align: center;
+    justify-content: center;
+}
+
+.delete-button-img {
+    width: 20px;
+}
+
+.delete-button {
+    border: none;
+}
+
+#tag_nameinput {
+    margin-top: 40px;
+    border: none;
+    min-width: 220px;
+    width: 15vw;
+    max-width: 400px;
+    height: 30px;
+    border-bottom: 1px solid #3a3a3a;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    background-color: #e8f6fc;
+    text-decoration-color: black;
+    outline-width: 1px;
+    padding: 0px 0px 5px 5px;
+}
+
+#tag-submit {
+    width: 150px;
+    height: 40px;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    background-color: #179BD5;
+    cursor: pointer;
+    outline: none;
+    align-items: center;
+    margin-top: 30px;
+}
