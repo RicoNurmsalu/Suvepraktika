@@ -20,6 +20,10 @@ Hack
 Javascript ES2021
 CSS 2.1
 
+# Paigaldusjuhised
+* Lae alla kõik failid repositooriumist (peale
+* Pane serverisse public_html-i
+
 
 # Projekti loojad
 
