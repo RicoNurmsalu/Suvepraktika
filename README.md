@@ -21,8 +21,11 @@ Javascript ES2021
 CSS 2.1
 
 # Paigaldusjuhised
-* Lae alla kõik failid repositooriumist (peale
-* Pane serverisse public_html-i
+* Lae alla kõik failid repositooriumist (peale Litsents.txt, ReadME.md ja Pics kaust).
+* Pane serverisse public_html-i.
+* Loo MySQL andmebaas alloleva skripti abil.
+
+# Andmebaasi tabelite skriptid
 
 
 # Projekti loojad
