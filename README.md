@@ -26,7 +26,7 @@ CSS 2.1
 * Loo MySQL andmebaas alloleva skripti abil.
 
 # Andmebaasi tabelite skriptid
--- phpMyAdmin SQL Dump
+`-- phpMyAdmin SQL Dump
 -- version 4.9.5
 -- https://www.phpmyadmin.net/
 --
@@ -90,7 +90,7 @@ CREATE TABLE `users` (
   `lastname` varchar(50) NOT NULL,
   `email` varchar(50) NOT NULL,
   `password` varchar(150) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;`
 
 
 # Projekti loojad
