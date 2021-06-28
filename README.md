@@ -23,7 +23,8 @@ CSS 2.1
 # Paigaldusjuhised
 * Lae alla kõik failid repositooriumist (peale Litsents.txt, ReadME.md ja Pics kaust).
 * Pane serverisse public_html-i.
-* Loo MySQL andmebaas alloleva skripti abil.
+* Vaata, et serveril oleks olemas kindlasti MariaDB 10.2.25 või hilisem versioon.
+* Loo MariaDB andmebaas alloleva skripti abil.
 
 # Andmebaasi tabelite skriptid
 ```
